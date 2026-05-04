@@ -72,5 +72,5 @@ From the previous lab (dynamic analysis), added a hypervisor check via `cpuid` �
 
 ## Files
 
-- `client/client.py` – client-side payload
-- `server/server.py` – server menu and handlers
+- `client.py` – client-side payload
+- `server.py` – server menu and handlers
